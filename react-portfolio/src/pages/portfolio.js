@@ -3,7 +3,7 @@ import "../App.css";
 
 const portfolio = () => {
     return (
-        <div id="">
+        <div id="main-content">
             <div className="container bg-white">
                 <div className="row">
                     <div className="col-lg-9 col-xlg-9 p-4">
