@@ -1,7 +1,8 @@
 import React from "react";
+import profilephoto from "../images/lg-profile-pic.jpg";
 import "../App.css";
 
-const aboutMe = () => {
+const intro = () => {
     return (
         <div id="main-content">
             <div className="container bg-white">
@@ -9,9 +10,9 @@ const aboutMe = () => {
                     <div className="col-lg-9 col-xlg-9 p-4">
                         <h2>Introduction</h2>
                         <hr />
-                        <img src="../images/lg-profile-pic.jpg" alt="Larry Gamboa" className="float-left rounded mr-3" />
-                        <p>I'm a skilled hybrid web graphic designer and front-end developer with over 10 years of professional experience. I began my career in print design before transitioning over into the realm of web development. With my skills, I have designed and developed websites for clients in the medical, law, financial, and educational industries. I also have extensive experience from working with big name companies such as Active Network, HD Supply, and PETCO. Along with graphic design, I possess skills in front-end web development using HTML, CSS, Javascript, content management systems, and responsive front-end frameworks. I'm knowledgeable in wireframing, UI design, and responsive web design. I'm very passionate about design and want to continue utilizing my talents while continuing to develop my front-end web development skill sets.</p>
-                        <h3 className="mt-3">Specialties</h3>
+                        <img src={profilephoto} alt="Larry Gamboa" className="float-left rounded mr-3" />
+                        <p>I'm a skilled hybrid web graphic designer and front-end developer with over 10 years of professional experience. I began my career in print design before transitioning over into the realm of web development. With my skills, I have designed and developed websites for clients in the medical, law, financial, and educational industries. I also have extensive experience from working with big name companies such as Active Network, HD Supply, and PETCO. Along with graphic design, I possess skills in front-end web development using HTML, CSS, Javascript, React, content management systems, and responsive front-end frameworks. I'm knowledgeable in wireframing, UI design, and responsive web design. I'm very passionate about design and want to continue utilizing my talents while continuing to develop my front-end web development skill sets.</p>
+                        <h3 className="mt-4">Specialties</h3>
                         <div className="row">
                             <ul className="col-sm-12 col-md-6 col-lg-6 col-xlg-6 pl-5 ul-mb-none">
                                 <li>HTML/CSS/Javascript web development</li>
@@ -29,7 +30,7 @@ const aboutMe = () => {
                                 <li>Photography and photo editing</li>
                             </ul>
                         </div>
-                        <h3 className="mt-3">Education</h3>
+                        <h3 className="mt-4">Education</h3>
                         <div className="row">
                             <div className="col-sm-12 col-md-4 col-lg-4 col-xlg-4">
                                 <p><strong>Full Stack Web Development, UCSD Extension</strong><br />
@@ -72,4 +73,4 @@ const aboutMe = () => {
     )
 }
 
-export default aboutMe;
+export default intro;

@@ -1,24 +1,24 @@
 import React from "react";
-// import "./style.css";
+import { Link } from "react-router-dom";
 
 const HeaderNav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-forest-green">
             <div className="container">
-                <h1><a className="navbar-brand text-white" href="index.html">Larry Gamboa<span className="mytitle">Web Designer &amp; Developer</span></a></h1>
+                <h1><Link to="/Intro"><span className="navbar-brand text-white">Larry Gamboa<span className="mytitle">Web Designer &amp; Developer</span></span></Link></h1>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarText">
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item active">
-                            <a className="nav-link" href="index.html">Introduction <span className="sr-only">(current)</span></a>
+                            <Link to="/Intro"><span className="nav-link">Introduction <span className="sr-only">(current)</span></span></Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="portfolio.html">Portfolio</a>
+                            <Link to="/Portfolio"><span className="nav-link">Portfolio</span></Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="contact.html">Contact</a>
+                            <Link to="/Contact"><span className="nav-link">Contact</span></Link>
                         </li>
                     </ul>
                 </div>

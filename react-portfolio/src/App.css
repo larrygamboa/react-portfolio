@@ -43,7 +43,7 @@ body {
   background: url("./images/background-image.jpg") #CCC no-repeat center;
   background-size: cover;
   font-family: 'Inter', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9375rem;
   line-height: 1.5rem;
 }
 
@@ -87,7 +87,7 @@ h5 {
 }
 .navbar-light .navbar-nav .active>.nav-link {
   color: #ebebeb;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -96,6 +96,7 @@ h5 {
 
 .navbar-light .navbar-nav .nav-link:hover {
   color: #ebebeb;
+  text-decoration: underline;
 }
 
 .navbar-brand {
@@ -134,6 +135,10 @@ footer a {
 footer a:hover {
   color: #ebebeb;
   text-decoration: underline;
+}
+
+footer p.create a {
+  padding: 0;
 }
 
 
