@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.872851b5.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.1dee430f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1dee430f.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a5a8d905.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a5a8d905.js.map",
+    "static/js/2.6b456ad9.chunk.js": "/react-portfolio/static/js/2.6b456ad9.chunk.js",
+    "static/js/2.6b456ad9.chunk.js.map": "/react-portfolio/static/js/2.6b456ad9.chunk.js.map",
+    "static/js/3.f7362317.chunk.js": "/react-portfolio/static/js/3.f7362317.chunk.js",
+    "static/js/3.f7362317.chunk.js.map": "/react-portfolio/static/js/3.f7362317.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.872851b5.chunk.css.map": "/react-portfolio/static/css/main.872851b5.chunk.css.map",
+    "static/js/2.6b456ad9.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6b456ad9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-portfolio/static/media/background-image.418a94d6.jpg",
+    "static/media/larry_gamboa_2021resume_updated012021.489f490b.pdf": "/react-portfolio/static/media/larry_gamboa_2021resume_updated012021.489f490b.pdf",
+    "static/media/lg-profile-pic.6255fe46.jpg": "/react-portfolio/static/media/lg-profile-pic.6255fe46.jpg",
+    "static/media/portfolio-caniglia-thumb.958a1b7d.jpg": "/react-portfolio/static/media/portfolio-caniglia-thumb.958a1b7d.jpg",
+    "static/media/portfolio-day-planner-thumb.c8ee52cd.jpg": "/react-portfolio/static/media/portfolio-day-planner-thumb.c8ee52cd.jpg",
+    "static/media/portfolio-employee-tracker-thumb.673f3498.jpg": "/react-portfolio/static/media/portfolio-employee-tracker-thumb.673f3498.jpg",
+    "static/media/portfolio-express-handlebars-thumb.699796ab.jpg": "/react-portfolio/static/media/portfolio-express-handlebars-thumb.699796ab.jpg",
+    "static/media/portfolio-note-taker-thumb.0ee8b4f6.jpg": "/react-portfolio/static/media/portfolio-note-taker-thumb.0ee8b4f6.jpg",
+    "static/media/portfolio-nutrition-thumb.0d1b3d49.jpg": "/react-portfolio/static/media/portfolio-nutrition-thumb.0d1b3d49.jpg",
+    "static/media/portfolio-pacific-thumb.f5c72901.jpg": "/react-portfolio/static/media/portfolio-pacific-thumb.f5c72901.jpg",
+    "static/media/portfolio-petco-thumb.c8180368.jpg": "/react-portfolio/static/media/portfolio-petco-thumb.c8180368.jpg",
+    "static/media/portfolio-readme-generator-thumb.21d12d2b.jpg": "/react-portfolio/static/media/portfolio-readme-generator-thumb.21d12d2b.jpg",
+    "static/media/portfolio-team-generator-thumb.1c980ae6.jpg": "/react-portfolio/static/media/portfolio-team-generator-thumb.1c980ae6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a8d905.js",
+    "static/js/2.6b456ad9.chunk.js",
+    "static/css/main.872851b5.chunk.css",
+    "static/js/main.1dee430f.chunk.js"
+  ]
+}
