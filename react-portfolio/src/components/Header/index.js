@@ -1,7 +1,7 @@
 import React from "react";
-import "./style.css";
+// import "./style.css";
 
-const headerNav = () => {
+const HeaderNav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-forest-green">
             <div className="container">
@@ -27,4 +27,4 @@ const headerNav = () => {
     )
 }
 
-export default headerNav;
+export default HeaderNav;

@@ -41,10 +41,10 @@ const contact = () => {
                         <h2>Let's Connect</h2>
                         <hr />
                         <ul className="connect">
-                            <li><a href="https://www.linkedin.com/in/gamboalarry/" target="_blank">LinkedIn &rarr;</a></li>
-                            <li><a href="https://github.com/larrygamboa/" target="_blank">GitHub &rarr;</a></li>
-                            <li><a href="https://www.behance.net/larrygamboa" target="_blank">Behance &rarr;</a></li>
-                            <li><a href="https://www.instagram.com/capturesbylg/" target="_blank">Instagram &rarr;</a></li>
+                            <li><a href="https://www.linkedin.com/in/gamboalarry/" target="_blank" rel="noreferrer">LinkedIn &rarr;</a></li>
+                            <li><a href="https://github.com/larrygamboa/" target="_blank" rel="noreferrer">GitHub &rarr;</a></li>
+                            <li><a href="https://www.behance.net/larrygamboa" target="_blank" rel="noreferrer">Behance &rarr;</a></li>
+                            <li><a href="https://www.instagram.com/capturesbylg/" target="_blank" rel="noreferrer">Instagram &rarr;</a></li>
                             <li><hr /></li>
                             <li><a href="mailto:techmedia.lg@gmail.com">techmedia.lg@gmail.com</a></li>
                             <li>858.275.3161</li>

@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +34,157 @@
   }
   to {
     transform: rotate(360deg);
+  }
+} */
+
+
+/* CUSTOM CSS */
+body {
+  background: url("./images/background-image.jpg") #CCC no-repeat center;
+  background-size: cover;
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+h1, h2, h3, h4 {
+  color: #228B22;
+  font-weight: 600;
+}
+
+nav h1 {
+  margin: 0;
+}
+
+nav h1 span.mytitle {
+  border-top: 1px solid #FFF;
+  display: block;
+  font-size: 0.375em;
+  font-weight: normal;
+  letter-spacing: 0.125em;
+  line-height: 1.75em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h5 {
+  color: #000;
+  font-weight: 600;
+}
+
+.bg-forest-green {
+  background-color: #228B22;
+}
+
+
+/* Nav Bar custom styles */
+.navbar h1 {
+  font-family: 'Sarala', sans-serif;
+}
+
+.navbar-nav li.nav-item {
+  font-size: 1.25rem;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+  color: #ebebeb;
+  text-decoration: underline;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #FFF;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #ebebeb;
+}
+
+.navbar-brand {
+  font-size: 2.25rem;
+}
+
+/* Main Content custom styles */
+#main-content .container {
+  margin: 3rem auto;
+}
+
+ul.connect {
+  padding-left: 0;
+}
+
+ul.connect li {
+  list-style: none;
+}
+
+/* Contact form styles */
+form {
+  background-color: #ebebeb;
+  padding: 75px 150px;
+}
+
+/* Footer custom styles */
+footer p, footer a, footer a:hover {
+  color: #FFF;
+}
+
+footer a {
+  padding: 0 15px;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #ebebeb;
+  text-decoration: underline;
+}
+
+
+/* For Large devices (desktops, 992x) */
+@media screen and (max-width: 992px) {
+  /* Nav Bar custom styles */
+  .navbar-light .navbar-toggler {
+      border-color: #FFF;
+  }
+
+  /* Invert color of hamburger menu icon */
+  .navbar-light .navbar-toggler-icon {
+      -webkit-filter: invert(1);
+      filter: invert(1);
+  }
+}
+
+/* For Medium devices (tablets, 768px) */
+@media screen and (max-width: 768px) {
+  /* Nav Bar custom styles */
+  .navbar .container {
+      max-width: 100%;
+  }
+
+  /* Main Content custom styles */
+  #main-content .container {
+      margin: 0 auto;
+      max-width: 100%;
+  }
+
+  /* Zero out <ul> bottom margin */
+  .ul-mb-none {
+      margin-bottom: 0;
+  }
+}
+
+/* For Small devices (phones, 576px) */
+@media screen and (max-width: 576px) {
+  /* Nav Bar custom styles */
+  .navbar .container {
+      max-width: 100%;
+  }
+
+  /* Main Content custom styles */
+  #main-content .container {
+      margin: 0 auto;
+      max-width: 100%;
+  }
+
+  /* Contact form styles */
+  form {
+      padding: 20px;
   }
 }
