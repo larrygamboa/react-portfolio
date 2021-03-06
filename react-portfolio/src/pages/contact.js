@@ -51,7 +51,7 @@ const contact = () => {
                   rows="5"
                 ></textarea>
               </div>
-              <button type="submit" className="btn btn-primary" onClick={sendMail}>
+              <button type="submit" className="btn btn-primary">
                 Submit
               </button>
             </form>
