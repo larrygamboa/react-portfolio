@@ -18,8 +18,11 @@ const intro = () => {
                             <ul className="col-sm-12 col-md-6 col-lg-6 col-xlg-6 pl-5 ul-mb-none">
                                 <li>HTML/CSS/Javascript web development</li>
                                 <li>Bootstrap/Materialize/Foundation responsive front-end frameworks</li>
+                                <li>Component-based user interface build with React javaScript library</li>
                                 <li>Open-source, cross-platform, JavaScript runtime environment with Node.js</li>
                                 <li>Open-source database management system with MySQL</li>
+                                <li>Developing modern user interfaces using MVC, Model–View–Controller</li>
+                                <li>NoSQL document database programming with MongDB</li>
                                 <li>GitHub code hosting platform for version control and collaboration</li>
                             </ul>
                             <ul className="col-sm-12 col-md-6 col-lg-6 col-xlg-6 pl-5">
