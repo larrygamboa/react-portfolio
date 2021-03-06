@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.872851b5.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.f2047343.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.f2047343.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.d1db9eda.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.d1db9eda.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.a5a8d905.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a5a8d905.js.map",
     "static/js/2.c616b57f.chunk.js": "/react-portfolio/static/js/2.c616b57f.chunk.js",
@@ -17,8 +17,10 @@
     "static/media/lg-profile-pic.6255fe46.jpg": "/react-portfolio/static/media/lg-profile-pic.6255fe46.jpg",
     "static/media/portfolio-caniglia-thumb.958a1b7d.jpg": "/react-portfolio/static/media/portfolio-caniglia-thumb.958a1b7d.jpg",
     "static/media/portfolio-day-planner-thumb.c8ee52cd.jpg": "/react-portfolio/static/media/portfolio-day-planner-thumb.c8ee52cd.jpg",
+    "static/media/portfolio-employee-directory-thumb.a0fb4e19.jpg": "/react-portfolio/static/media/portfolio-employee-directory-thumb.a0fb4e19.jpg",
     "static/media/portfolio-employee-tracker-thumb.673f3498.jpg": "/react-portfolio/static/media/portfolio-employee-tracker-thumb.673f3498.jpg",
     "static/media/portfolio-express-handlebars-thumb.699796ab.jpg": "/react-portfolio/static/media/portfolio-express-handlebars-thumb.699796ab.jpg",
+    "static/media/portfolio-fitness-tracker-thumb.e74ff62a.jpg": "/react-portfolio/static/media/portfolio-fitness-tracker-thumb.e74ff62a.jpg",
     "static/media/portfolio-note-taker-thumb.0ee8b4f6.jpg": "/react-portfolio/static/media/portfolio-note-taker-thumb.0ee8b4f6.jpg",
     "static/media/portfolio-nutrition-thumb.0d1b3d49.jpg": "/react-portfolio/static/media/portfolio-nutrition-thumb.0d1b3d49.jpg",
     "static/media/portfolio-pacific-thumb.f5c72901.jpg": "/react-portfolio/static/media/portfolio-pacific-thumb.f5c72901.jpg",
@@ -30,6 +32,6 @@
     "static/js/runtime-main.a5a8d905.js",
     "static/js/2.c616b57f.chunk.js",
     "static/css/main.872851b5.chunk.css",
-    "static/js/main.f2047343.chunk.js"
+    "static/js/main.d1db9eda.chunk.js"
   ]
 }
