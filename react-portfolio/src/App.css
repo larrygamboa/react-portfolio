@@ -78,6 +78,12 @@ h5 {
 
 
 /* Nav Bar custom styles */
+.navbar {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+}
+
 .navbar h1 {
   font-family: 'Sarala', sans-serif;
 }
@@ -104,6 +110,9 @@ h5 {
 }
 
 /* Main Content custom styles */
+.project {
+  padding-top: 93px;
+}
 #main-content .container {
   margin: 3rem auto;
 }
