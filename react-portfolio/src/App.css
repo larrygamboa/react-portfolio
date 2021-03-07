@@ -198,9 +198,9 @@ footer p.create a {
       max-width: 100%;
   }
 
-  #main-content .card {
+  /* #main-content .card {
     min-height: 320px;
-}
+  } */
 
   /* Contact form styles */
   form {

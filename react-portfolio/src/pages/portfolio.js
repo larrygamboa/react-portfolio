@@ -24,7 +24,7 @@ const portfolio = () => {
                         <hr />
                         <p>Here are some examples of my current and past work. I've added some applications developed in the Full Stack Web Development program with UC San Diego Extension. I've also designed and built numerous websites throughout my 10+ year career which include corporate, medical, law and small business. You can preview more of my design work on <a href="https://www.behance.net/larrygamboa" target="_blank" rel="noreferrer">Behance</a>.</p>
                         <div className="row">
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={employeedirectory} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Employee Directory using React</strong></h5>
@@ -32,7 +32,7 @@ const portfolio = () => {
                                     <p><a href="https://github.com/larrygamboa/employee-directory" target="_blank" rel="noreferrer">GitHub Repo &rarr;</a></p>
                                 </div>
                             </div>
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={fitnesstracker} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Fitness Tracker</strong></h5>
@@ -42,7 +42,7 @@ const portfolio = () => {
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={expresshandlebars} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Node Express Handlebars</strong></h5>
@@ -50,7 +50,7 @@ const portfolio = () => {
                                     <p><a href="https://github.com/larrygamboa/node-express-handlebars" target="_blank" rel="noreferrer">GitHub Repo &rarr;</a></p>
                                 </div>
                             </div>
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={employeetracker} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Employee Tracker</strong></h5>
@@ -60,7 +60,7 @@ const portfolio = () => {
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={notetaker} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Note Taker</strong></h5>
@@ -68,7 +68,7 @@ const portfolio = () => {
                                     <p><a href="https://github.com/larrygamboa/note-taker" target="_blank" rel="noreferrer">GitHub Repo &rarr;</a></p>
                                 </div>
                             </div>
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={teamgenerator} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Team Generator</strong></h5>
@@ -78,7 +78,7 @@ const portfolio = () => {
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={readmegenerator} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>ReadMe Generator</strong></h5>
@@ -86,7 +86,7 @@ const portfolio = () => {
                                     <p><a href="https://github.com/larrygamboa/professional-readme-generator" target="_blank" rel="noreferrer">GitHub Repo &rarr;</a></p>
                                 </div>
                             </div>
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={dayplanner} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Day Planner</strong></h5>
@@ -96,14 +96,14 @@ const portfolio = () => {
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={caniglia} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Client website redesign</strong></h5>
                                     <p><a href="https://www.behance.net/gallery/100182867/Caniglia-Facial-Plastic-Surgery-homepage-design" target="_blank" rel="noreferrer">Preview &rarr;</a></p>
                                 </div>
                             </div>
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={pacific} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Client website redesign</strong></h5>
@@ -112,14 +112,14 @@ const portfolio = () => {
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={petcohome} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Petco Summer Homepage</strong></h5>
                                     <p><a href="https://www.behance.net/gallery/103279859/Summer-event-homepage" target="_blank" rel="noreferrer">Preview &rarr;</a></p>
                                 </div>
                             </div>
-                            <div className="col-6 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
+                            <div className="col-12 col-sm-6 col-md-6 col-lg-6 col-xlg-6 p-3 text-center">
                                 <div className="card">
                                     <img src={petconutrition} alt=" " className="img-fluid rounded mx-auto d-block" />
                                     <h5 className="mt-3 mb-3"><strong>Petco Nutrition Landing Page</strong></h5>
