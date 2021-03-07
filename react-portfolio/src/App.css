@@ -40,15 +40,16 @@
 
 /* CUSTOM CSS */
 body {
-  background: url("./images/background-image.jpg") #CCC no-repeat center;
-  background-size: cover;
+  background: url("./images/sd-night-bkgd.jpg") #1c1115 no-repeat top center;
+  /* background-size: cover; */
+  color: #333;
   font-family: 'Inter', sans-serif;
   font-size: 0.9375rem;
   line-height: 1.5rem;
 }
 
 h1, h2, h3, h4 {
-  color: #228B22;
+  color: #bb3859;
   font-weight: 600;
 }
 
@@ -73,7 +74,7 @@ h5 {
 }
 
 .bg-forest-green {
-  background-color: #228B22;
+  background-color: #1c1115;
 }
 
 
@@ -114,7 +115,7 @@ h5 {
   padding-top: 93px;
 }
 #main-content .container {
-  margin: 3rem auto;
+  margin: 15rem auto 0;
 }
 
 ul.connect {
@@ -174,7 +175,7 @@ footer p.create a {
 
   /* Main Content custom styles */
   #main-content .container {
-      margin: 0 auto;
+      /* margin: 15rem auto 0; */
       max-width: 100%;
   }
 
@@ -193,7 +194,7 @@ footer p.create a {
 
   /* Main Content custom styles */
   #main-content .container {
-      margin: 0 auto;
+      /* margin: 15rem auto 0; */
       max-width: 100%;
   }
 
